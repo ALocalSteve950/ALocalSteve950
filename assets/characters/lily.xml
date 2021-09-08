@@ -1,1 +1,14 @@
+<Motion duration="1" xmlns="fl.motion.*" xmlns:geom="flash.geom.*" xmlns:filters="flash.filters.*">
+	<source>
+		<Source frameRate="30" x="495.9" y="352.95" scaleX="1" scaleY="1" rotation="0" elementType="graphic" symbolName="lily idle anim">
+			<dimensions>
+				<geom:Rectangle left="0" top="0" width="241.55" height="353.15"/>
+			</dimensions>
+			<transformationPoint>
+				<geom:Point x="0.4998965017594701" y="0.49992920855160705"/>
+			</transformationPoint>
+		</Source>
+	</source>
 
+	<Keyframe index="0" zDepth="0"/>
+</Motion>
